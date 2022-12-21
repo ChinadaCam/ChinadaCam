@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Red team path**
 
-- 💬 Ask me about **Python, Cybersecurity, Pentest, Project managment**
+- 💬 Ask me about **Programing, Cybersecurity, Pentest, Project managment**
 
 - 📫 How to reach me **tiagfaustino@gmail.com**
 
