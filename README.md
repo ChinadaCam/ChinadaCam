@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tiago Faustino</h1>
+<h1 align="center">Hi there 👋, I'm Tiago Faustino</h1>
 <h3 align="center">A 22yrs old passionate cybersecurity specialist/developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinadacam&label=Profile%20views&color=0e75b6&style=flat" alt="chinadacam" /> </p>
@@ -20,8 +20,9 @@
 
 <h4 align="left">Hacking platforms:</h3>
 <p align="left">
-<a href="https://tryhackme.com/p/ChinadaCam" target="blank"> TryHackMe</a>
-<a href="https://app.hackthebox.com/profile/146582" target="blank"> HackTheBox</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ChinadaCam.png" alt="TryHackMe">
+
+<img src="http://www.hackthebox.eu/badge/image/146582" alt="Hack The Box">
 </p>
 
 
